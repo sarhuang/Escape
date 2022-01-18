@@ -1,8 +1,8 @@
 # Escape
 
-Controls:
-n = North
-s = South
-e = East
-w = West
-q = Quit
+__Controls:__
+- n = North
+- s = South
+- e = East
+- w = West
+- q = Quit
