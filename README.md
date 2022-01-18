@@ -1,5 +1,5 @@
 # Escape
-Reading in a file of room descriptions, the player can look and navigate through rooms to find the exit.
+For my undergraduate coding class. Reading in a file of room descriptions, the player can look and navigate through rooms to find the exit.
 
 
 __Controls:__
